@@ -13,6 +13,8 @@
 
 [Apuntes: Muestreo Aleatorio Simple](https://github.com/marioalb127/6sem/blob/main/MAS_MUE.pdf)
 
+[Laboratorio 1: Muestreo Aleatorio Simple](https://github.com/marioalb127/6sem/blob/main/Lab1_MARM002.pdf)
+
 ### Minería de datos
 
 ### Procesos estocásticos
