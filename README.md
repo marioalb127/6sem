@@ -20,8 +20,11 @@
 ### Procesos estocásticos
 
 ### Métodos estadísticos
-[Laboratorio 1: Pruebas binomiales 1](https://github.com/marioalb127/6sem/blob/main/Lab1ME_MARM002.pdf)
+[Laboratorio 1: Pruebas binomiales I](https://github.com/marioalb127/6sem/blob/main/Lab1ME_MARM002.pdf)
+
+[Laboratorio 2: Pruebas binomiales II](https://github.com/marioalb127/6sem/blob/main/Lab2ME_MARM002.pdf)
 
 ### Matemáticas actuariales del seguro de vida
 
 ### Investigación de operaciones
+[Primer Parcial](https://github.com/marioalb127/6sem/blob/main/P1_RMMA1860043.pdf)
