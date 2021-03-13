@@ -24,6 +24,8 @@
 
 [Laboratorio 2: Pruebas binomiales II](https://github.com/marioalb127/6sem/blob/main/Lab2ME_MARM002.pdf)
 
+[Laboratorio 3: Pruebas de Rango](https://github.com/marioalb127/6sem/blob/main/Lab3ME_MARM002.pdf)
+
 ### Matemáticas actuariales del seguro de vida
 
 ### Investigación de operaciones
