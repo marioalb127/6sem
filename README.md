@@ -3,6 +3,8 @@
 ### Liderazgo, Emprendimiento e Innovación
 [Plan de Desarrollo Personal](https://github.com/marioalb127/6sem/blob/main/PDP_MARM.pdf)
 
+[Innovación (Forzahorro)](https://github.com/marioalb127/6sem/blob/main/Forzahorro_E01_G007.pdf)
+
 ### Legislación de seguros
 [Tarea 1: Ensayo de la Historia del Seguro en el Mundo](https://github.com/marioalb127/6sem/blob/main/Ensayo_LS.pdf)
 
