@@ -20,6 +20,7 @@
 ### Minería de datos
 
 ### Procesos estocásticos
+[Primer Parcial](https://github.com/marioalb127/6sem/blob/main/P1_PE.pdf)
 
 ### Métodos estadísticos
 [Laboratorio 1: Pruebas binomiales I](https://github.com/marioalb127/6sem/blob/main/Lab1ME_MARM002.pdf)
