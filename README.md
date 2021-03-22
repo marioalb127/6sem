@@ -3,7 +3,7 @@
 ### Liderazgo, Emprendimiento e Innovación
 [Plan de Desarrollo Personal](https://github.com/marioalb127/6sem/blob/main/PDP_MARM.pdf)
 
-[Innovación (Forzahorro)](https://github.com/marioalb127/6sem/blob/main/Forzahorro_E01_G007.pdf)
+[Forzahorro: Innovación a una Alcancía](https://github.com/marioalb127/6sem/blob/main/Forzahorro_E01_G007.pdf)
 
 ### Legislación de seguros
 [Tarea 1: Ensayo de la Historia del Seguro en el Mundo](https://github.com/marioalb127/6sem/blob/main/Ensayo_LS.pdf)
@@ -28,6 +28,8 @@
 [Laboratorio 2: Pruebas binomiales II](https://github.com/marioalb127/6sem/blob/main/Lab2ME_MARM002.pdf)
 
 [Laboratorio 3: Pruebas de Rango](https://github.com/marioalb127/6sem/blob/main/Lab3ME_MARM002.pdf)
+
+[Laboratorio 4: Pruebas de Bondad de Ajuste](https://github.com/marioalb127/6sem/blob/main/Lab4ME_MARM002.pdf)
 
 ### Matemáticas actuariales del seguro de vida
 
