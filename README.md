@@ -10,6 +10,8 @@
 
 [Tarea 2: Resumen sobre la Perspectiva de Fitch Ratings 2021](https://github.com/marioalb127/6sem/blob/main/ResumenLS_MARM.pdf)
 
+[Tarea 3: Presentación sobre artículos de la LISF](https://github.com/marioalb127/6sem/blob/main/Presentaci%C3%B3n_LISF.pdf)
+
 ### Muestreo
 [Apuntes: Fundamentos del Muestreo](https://github.com/marioalb127/6sem/blob/main/FDM_MUE.pdf)
 
