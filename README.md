@@ -31,6 +31,8 @@
 
 [Laboratorio 4: Pruebas de Bondad de Ajuste](https://github.com/marioalb127/6sem/blob/main/Lab4ME_MARM002.pdf)
 
+[Laboratorio 5: Tablas de Contingencia](https://github.com/marioalb127/6sem/blob/main/Lab5ME_MARM002.pdf)
+
 ### Matemáticas actuariales del seguro de vida
 
 ### Investigación de operaciones
