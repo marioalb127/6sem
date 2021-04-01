@@ -20,7 +20,7 @@
 [Laboratorio 1: Muestreo Aleatorio Simple](https://github.com/marioalb127/6sem/blob/main/Lab1_MARM002.pdf)
 
 ### Minería de datos
-[Repositorio completo](https://github.com/marioalb127/MinDat2021)
+[Repositorio completo](https://github.com/marioalb127/MinDat2021/blob/main/README.md)
 
 ### Procesos estocásticos
 [Primer Parcial](https://github.com/marioalb127/6sem/blob/main/P1_PE.pdf)
