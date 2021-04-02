@@ -1,9 +1,9 @@
 # 6to Semestre
 
 ### Liderazgo, Emprendimiento e Innovación
-[Plan de Desarrollo Personal](https://github.com/marioalb127/6sem/blob/main/PDP_MARM.pdf)
+* [Plan de Desarrollo Personal](https://github.com/marioalb127/6sem/blob/main/PDP_MARM.pdf)
 
-[Forzahorro: Innovación a una Alcancía](https://github.com/marioalb127/6sem/blob/main/Forzahorro_E01_G007.pdf)
+* [Forzahorro: Innovación a una Alcancía](https://github.com/marioalb127/6sem/blob/main/Forzahorro_E01_G007.pdf)
 
 ### Legislación de seguros
 [Tarea 1: Ensayo de la Historia del Seguro en el Mundo](https://github.com/marioalb127/6sem/blob/main/Ensayo_LS.pdf)
@@ -18,6 +18,12 @@
 * [Muestreo Aleatorio Simple](https://github.com/marioalb127/6sem/blob/main/MAS_MUE.pdf)
 
   * [Laboratorio: Muestreo Aleatorio Simple](https://github.com/marioalb127/6sem/blob/main/Lab1_MARM002.pdf)
+ 
+* [Muestreo Aleatorio Estratificado](https://github.com/marioalb127/6sem)
+
+ * [Laboratorio: Muestreo Aleatorio Estratificado](https://github.com/marioalb127/6sem)
+
+* [Muestreo Aleatorio Sistemático](https://github.com/marioalb127/6sem)
 
 ### Minería de datos
 [Repositorio completo](https://github.com/marioalb127/MinDat2021/blob/main/README.md)
