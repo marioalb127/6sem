@@ -6,18 +6,18 @@
 [Forzahorro: Innovación a una Alcancía](https://github.com/marioalb127/6sem/blob/main/Forzahorro_E01_G007.pdf)
 
 ### Legislación de seguros
-[T1: Ensayo de la Historia del Seguro en el Mundo](https://github.com/marioalb127/6sem/blob/main/Ensayo_LS.pdf)
+[Tarea 1: Ensayo de la Historia del Seguro en el Mundo](https://github.com/marioalb127/6sem/blob/main/Ensayo_LS.pdf)
 
-[T2: Resumen sobre la Perspectiva de Fitch Ratings 2021](https://github.com/marioalb127/6sem/blob/main/ResumenLS_MARM.pdf)
+[Tarea 2: Resumen sobre la Perspectiva de Fitch Ratings 2021](https://github.com/marioalb127/6sem/blob/main/ResumenLS_MARM.pdf)
 
-[T3: Presentación sobre artículos de la LISF](https://github.com/marioalb127/6sem/blob/main/Presentaci%C3%B3n_LISF.pdf)
+[Tarea 3: Presentación sobre artículos de la LISF](https://github.com/marioalb127/6sem/blob/main/Presentaci%C3%B3n_LISF.pdf)
 
 ### Muestreo
-[A1: Fundamentos del Muestreo](https://github.com/marioalb127/6sem/blob/main/FDM_MUE.pdf)
+[Fundamentos del Muestreo](https://github.com/marioalb127/6sem/blob/main/FDM_MUE.pdf)
 
-[A2: Muestreo Aleatorio Simple](https://github.com/marioalb127/6sem/blob/main/MAS_MUE.pdf)
+[Muestreo Aleatorio Simple](https://github.com/marioalb127/6sem/blob/main/MAS_MUE.pdf)
 
-[L1: Muestreo Aleatorio Simple](https://github.com/marioalb127/6sem/blob/main/Lab1_MARM002.pdf)
+  [Laboratorio: Muestreo Aleatorio Simple](https://github.com/marioalb127/6sem/blob/main/Lab1_MARM002.pdf)
 
 ### Minería de datos
 [Repositorio completo](https://github.com/marioalb127/MinDat2021/blob/main/README.md)
