@@ -1,4 +1,5 @@
-# 6to Semestre
+# Sexto Semestre
+### Febrero - Junio 2021
 
 ### Liderazgo, Emprendimiento e Innovación
 * [Plan de Desarrollo Personal](https://github.com/marioalb127/6sem/blob/main/PDP_MARM.pdf)
@@ -25,8 +26,8 @@
 * [Ejercicios de Bases de Datos](https://github.com/marioalb127/MinDat2021/blob/main/Ej1_BasesDatos_Equipo_3.pdf)
 * [Ejercicios Básicos de Python](https://github.com/marioalb127/MinDat2021/blob/main/Ej_Python_1860043.ipynb)
 * [Presentación sobre Regresión Lineal](https://github.com/marioalb127/MinDat2021/blob/main/Presentaci%C3%B3n_Regresi%C3%B3n-Lineal_Equipo-3.pdf)
- * [Ejemplo sobre Regresión Lineal](https://github.com/marioalb127/MinDat2021/blob/main/Ejemplo_Regresi%C3%B3n-Lineal_Equipo-3.ipynb)
- * [Resultados del MiniExamen de Regresión Lineal](https://github.com/marioalb127/MinDat2021/blob/main/Calificaciones_Regresi%C3%B3n-Lineal_Equipo-3.pdf)
+  * [Ejemplo sobre Regresión Lineal](https://github.com/marioalb127/MinDat2021/blob/main/Ejemplo_Regresi%C3%B3n-Lineal_Equipo-3.ipynb)
+  * [Resultados del MiniExamen de Regresión Lineal](https://github.com/marioalb127/MinDat2021/blob/main/Calificaciones_Regresi%C3%B3n-Lineal_Equipo-3.pdf)
 * [Práctica I: Limpieza de Datos](https://github.com/marioalb127/MinDat2021/blob/main/Ej_Limpieza_Equipo3.ipynb)
 * [Práctica II: Visualización de Datos](https://github.com/marioalb127/MinDat2021/blob/main/Visualizaci%C3%B3n_Equipo3.ipynb)
 * [Avance I del PIA](https://github.com/marioalb127/MinDat2021/blob/main/Avance1_PIA_Equipo3.ipynb)
