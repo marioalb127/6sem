@@ -1,5 +1,5 @@
 # Sexto Semestre
-### Febrero - Junio 2021
+##### Febrero - Junio 2021
 
 ### Liderazgo, Emprendimiento e Innovación
 * [Plan de Desarrollo Personal](https://github.com/marioalb127/6sem/blob/main/PDP_MARM.pdf)
