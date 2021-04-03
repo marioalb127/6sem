@@ -16,9 +16,9 @@
 * [Fundamentos del Muestreo](https://github.com/marioalb127/6sem/blob/main/FDM_MUE.pdf)
 * [Muestreo Aleatorio Simple](https://github.com/marioalb127/6sem/blob/main/MAS_MUE.pdf)
   * [Laboratorio: Muestreo Aleatorio Simple](https://github.com/marioalb127/6sem/blob/main/Lab1_MARM002.pdf)
-* [Muestreo Aleatorio Estratificado](https://github.com/marioalb127/6sem)
+* [Muestreo Aleatorio Estratificado](https://github.com/marioalb127/6sem/blob/main/Lab2_MARM002.pdf)
   * [Laboratorio: Muestreo Aleatorio Estratificado](https://github.com/marioalb127/6sem)
-* [Muestreo Aleatorio Sistemático](https://github.com/marioalb127/6sem)
+* [Muestreo Aleatorio Sistemático](https://github.com/marioalb127/6sem/blob/main/MS.pdf)
 
 ### Minería de datos
 * [Mapa Mental I](https://github.com/marioalb127/MinDat2021/blob/main/MapaMental_1_1860043.pdf)
@@ -50,7 +50,7 @@
 * [Reservas y Valores Garantizados](https://github.com/marioalb127/6sem)
 
 ### Investigación de operaciones
-* [Historia y Desarrollo de la Investigación de Operaciones](https://github.com/marioalb127/6sem)
-* [Modelos de Programación Lineal](https://github.com/marioalb127/6sem)
-* [Método Gráfico para Programación Lineal](https://github.com/marioalb127/6sem)
+* [Historia y Desarrollo de la Investigación de Operaciones](https://github.com/marioalb127/6sem/blob/main/HYDIO.pdf)
+* [Modelos de Programación Lineal](https://github.com/marioalb127/6sem/blob/main/MPL.pdf)
+* [Método Gráfico para Programación Lineal](https://github.com/marioalb127/6sem/blob/main/MGPL.pdf)
   * [Primer Parcial](https://github.com/marioalb127/6sem/blob/main/P1_RMMA1860043.pdf)
