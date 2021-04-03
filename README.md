@@ -16,8 +16,8 @@
 * [Fundamentos del Muestreo](https://github.com/marioalb127/6sem/blob/main/FDM_MUE.pdf)
 * [Muestreo Aleatorio Simple](https://github.com/marioalb127/6sem/blob/main/MAS_MUE.pdf)
   * [Laboratorio: Muestreo Aleatorio Simple](https://github.com/marioalb127/6sem/blob/main/Lab1_MARM002.pdf)
-* [Muestreo Aleatorio Estratificado](https://github.com/marioalb127/6sem/blob/main/Lab2_MARM002.pdf)
-  * [Laboratorio: Muestreo Aleatorio Estratificado](https://github.com/marioalb127/6sem)
+* [Muestreo Aleatorio Estratificado](https://github.com/marioalb127/6sem/blob/main/MAE.pdf)
+  * [Laboratorio: Muestreo Aleatorio Estratificado](https://github.com/marioalb127/6sem/blob/main/Lab2_MARM002.pdf)
 * [Muestreo Aleatorio Sistemático](https://github.com/marioalb127/6sem/blob/main/MS.pdf)
 
 ### Minería de datos
@@ -37,7 +37,7 @@
 [Primer Parcial](https://github.com/marioalb127/6sem/blob/main/P1_PE.pdf)
 
 ### Métodos estadísticos
-* [Estadística No Paramétrica](https://github.com/marioalb127/6sem)
+* *[Estadística No Paramétrica](https://github.com/marioalb127/6sem)
   * [Laboratorio 1: Pruebas binomiales I](https://github.com/marioalb127/6sem/blob/main/Lab1ME_MARM002.pdf)
   * [Laboratorio 2: Pruebas binomiales II](https://github.com/marioalb127/6sem/blob/main/Lab2ME_MARM002.pdf)
   * [Laboratorio 3: Pruebas de Rango](https://github.com/marioalb127/6sem/blob/main/Lab3ME_MARM002.pdf)
@@ -45,9 +45,9 @@
   * [Laboratorio 5: Tablas de Contingencia](https://github.com/marioalb127/6sem/blob/main/Lab5ME_MARM002.pdf)
 
 ### Matemáticas actuariales del seguro de vida
-* [Generalidades del seguro de vida](https://github.com/marioalb127/6sem)
-* [Cálculo del seguro de vida](https://github.com/marioalb127/6sem)
-* [Reservas y Valores Garantizados](https://github.com/marioalb127/6sem)
+* *[Generalidades del seguro de vida](https://github.com/marioalb127/6sem)
+* *[Cálculo del seguro de vida](https://github.com/marioalb127/6sem)
+* *[Reservas y Valores Garantizados](https://github.com/marioalb127/6sem)
 
 ### Investigación de operaciones
 * [Historia y Desarrollo de la Investigación de Operaciones](https://github.com/marioalb127/6sem/blob/main/HYDIO.pdf)
