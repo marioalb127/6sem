@@ -6,11 +6,13 @@
 * [Forzahorro: Innovación a una Alcancía](https://github.com/marioalb127/6sem/blob/main/Forzahorro_E01_G007.pdf)
 
 ### Legislación de seguros
-[Tarea 1: Ensayo de la Historia del Seguro en el Mundo](https://github.com/marioalb127/6sem/blob/main/Ensayo_LS.pdf)
+* [Antecedentes Históricos](https://github.com/marioalb127/6sem/blob/main/1AH_LS.pdf)
+  * [Ensayo: La Historia del Seguro en el Mundo](https://github.com/marioalb127/6sem/blob/main/Ensayo_LS.pdf)
+  * [Resumen: La Perspectiva de Fitch Ratings 2021](https://github.com/marioalb127/6sem/blob/main/ResumenLS_MARM.pdf)
+* [El Contrato de Seguro](https://github.com/marioalb127/6sem/blob/main/2CS_LS.pdf)
+* [Elementos Personales del Contrato de Seguro](https://github.com/marioalb127/6sem/blob/main/3EPCS_LS.pdf)
 
-[Tarea 2: Resumen sobre la Perspectiva de Fitch Ratings 2021](https://github.com/marioalb127/6sem/blob/main/ResumenLS_MARM.pdf)
-
-[Tarea 3: Presentación sobre artículos de la LISF](https://github.com/marioalb127/6sem/blob/main/Presentaci%C3%B3n_LISF.pdf)
+* [Tarea 3: Presentación sobre artículos de la LISF](https://github.com/marioalb127/6sem/blob/main/Presentaci%C3%B3n_LISF.pdf)
 
 ### Muestreo
 * [Fundamentos del Muestreo](https://github.com/marioalb127/6sem/blob/main/FDM_MUE.pdf)
