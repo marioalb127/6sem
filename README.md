@@ -37,6 +37,8 @@
 ### Procesos estocásticos
 [Primer Parcial](https://github.com/marioalb127/6sem/blob/main/P1_PE.pdf)
 
+[Segundo Parcial](https://github.com/marioalb127/6sem/blob/main/P2_PE.pdf)
+
 ### Métodos estadísticos
 * *[Estadística No Paramétrica](https://github.com/marioalb127/6sem)
   * [Laboratorio 1: Pruebas binomiales I](https://github.com/marioalb127/6sem/blob/main/Lab1ME_MARM002.pdf)
