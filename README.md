@@ -35,6 +35,7 @@
 * [Avance I del PIA](https://github.com/marioalb127/MinDat2021/blob/main/Avance1_PIA_Equipo3.ipynb)
 * [Avance II del PIA](https://github.com/marioalb127/MinDat2021/blob/main/AvancePIA_II_003_E03.ipynb)
 * [PIA](https://github.com/marioalb127/MinDat2021/blob/main/PIA_G003_E03.ipynb)
+* [Poster](https://github.com/marioalb127/MinDat2021/blob/main/Poster_G003_E03.pdf)
 
 ### Procesos estocásticos
 [Primer Parcial](https://github.com/marioalb127/6sem/blob/main/P1_PE.pdf)
