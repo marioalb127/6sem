@@ -12,7 +12,7 @@
   * [Resumen: La Perspectiva de Fitch Ratings 2021](https://github.com/marioalb127/6sem/blob/main/ResumenLS_MARM.pdf)
 * [El Contrato de Seguro](https://github.com/marioalb127/6sem/blob/main/2CS_LS.pdf)
 * [Elementos Personales del Contrato de Seguro](https://github.com/marioalb127/6sem/blob/main/3EPCS_LS.pdf)
-* [Tarea 3: Presentación sobre artículos de la LISF](https://github.com/marioalb127/6sem/blob/main/Presentaci%C3%B3n_LISF.pdf)
+  * [Artículos de la LISF](https://github.com/marioalb127/6sem/blob/main/Presentaci%C3%B3n_LISF.pdf)
 
 ### Muestreo
 * [Fundamentos del Muestreo](https://github.com/marioalb127/6sem/blob/main/FDM_MUE.pdf)
