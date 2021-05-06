@@ -60,3 +60,4 @@
 * [Modelos de Programación Lineal](https://github.com/marioalb127/6sem/blob/main/MPL.pdf)
 * [Método Gráfico para Programación Lineal](https://github.com/marioalb127/6sem/blob/main/MGPL.pdf)
   * [Primer Parcial](https://github.com/marioalb127/6sem/blob/main/P1_RMMA1860043.pdf)
+    * [Primer Parcial Revisado](https://github.com/marioalb127/6sem/blob/main/P1_RMMA1860043_Revisado.pdf)
