@@ -5,6 +5,7 @@
 * [Plan de Desarrollo Personal](https://github.com/marioalb127/6sem/blob/main/PDP_MARM.pdf)
 * [Forzahorro: Innovación a una Alcancía](https://github.com/marioalb127/6sem/blob/main/Forzahorro_E01_G007.pdf)
 * [Forever 21: Análisis a una Empresa](https://github.com/marioalb127/6sem/blob/main/Forever21_E01_G007.pdf)
+* [Propuesta Transformadora](https://github.com/marioalb127/6sem/blob/main/PropuestaTransformadora_MARM_G007.pdf)
 
 ### Legislación de seguros
 * [Antecedentes Históricos](https://github.com/marioalb127/6sem/blob/main/1AH_LS.pdf)
