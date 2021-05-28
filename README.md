@@ -64,3 +64,8 @@
     * [Primer Parcial Revisado](https://github.com/marioalb127/6sem/blob/main/P1_RMMA1860043_Revisado.pdf)
 * *[Métodos de Solución en Programación Lineal](https://github.com/marioalb127/6sem)
   * [Segundo Parcial](https://github.com/marioalb127/6sem/blob/main/P2_RMMA1860043.pdf)
+    * [Segundo Parcial Revisado](https://github.com/marioalb127/6sem/blob/main/P2_RMMA1860043_Revisado.pdf)
+* *[Dualidad](https://github.com/marioalb127/6sem)
+* *[Análisis de Sensibilidad](https://github.com/marioalb127/6sem)
+  * [Tercer Parcial](https://github.com/marioalb127/6sem/blob/main/P3_RMMA1860043.pdf)
+    * [Tercer Parcial Revisado](https://github.com/marioalb127/6sem/blob/main/P3_RMMA1860043_Revisado.pdf)
