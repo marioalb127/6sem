@@ -23,8 +23,8 @@
   * [Laboratorio: Muestreo Aleatorio Estratificado](https://github.com/marioalb127/6sem/blob/main/Lab2_MARM002.pdf)
 * [Muestreo Aleatorio Sistemático](https://github.com/marioalb127/6sem/blob/main/MS.pdf)
   * [Código MAS, MAE, MASIST](https://github.com/marioalb127/6sem/blob/main/MS.pdf)
-* [Proyecto: Análisis al Transporte Público en la ZMM](https://github.com/marioalb127/6sem/blob/main/Transporte%20P%C3%BAblico%20en%20la%20Zona%20Metropolitana%20de%20Monterrey%20durante%20la%20pandemia%20de%20COVID-19.pdf)
-  * [Presentación: Análisis al Transporte Público en la ZMM](https://mega.nz/file/Dt9H1IhK#PwLZ_li2-Y02-kAsvkHy_eAe_BtZtLPU7io0Axn0oog)
+* [Proyecto: Análisis al Transporte Público en la Zona Metropolitana de Monterrey](https://github.com/marioalb127/6sem/blob/main/Transporte%20P%C3%BAblico%20en%20la%20Zona%20Metropolitana%20de%20Monterrey%20durante%20la%20pandemia%20de%20COVID-19.pdf)
+  * [Presentación: Análisis al Transporte Público en la Zona Metropolitana de Monterrey](https://mega.nz/file/Dt9H1IhK#PwLZ_li2-Y02-kAsvkHy_eAe_BtZtLPU7io0Axn0oog)
 
 ### Minería de datos
 * [Mapa Mental I](https://github.com/marioalb127/MinDat2021/blob/main/MapaMental_1_1860043.pdf)
